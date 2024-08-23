@@ -8,7 +8,7 @@ This Excel project focuses on an imaginary store, "Superstore," with the objecti
 **_Disclaimer_**: _All dataset or report do not represent any company, organization, institution or country. But just a dummy dataset to represent the capabilities of Excel_
 
 ## Problem Statement
-1. Removed all erroneous and unclean values from the dataset.
+1. Remove all erroneous and unclean values from the dataset.
 2. Identify and replace missing values using suitable methods.
 3. Verify and correct data formats to ensure consistency.
 4. Create new variables (fields) from existing data to enhance the dataset.
