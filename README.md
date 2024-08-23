@@ -64,6 +64,7 @@ ___
 ![](Shipping_cost.JPG)
 
 The first pivot table and chart display the most expensive shipping mode, along with the total shipping costs and the average cost per transaction across all sales. Meanwhile, the second pivot table and chart highlight the customer age groups driving profit and the commercial value (revenue/profit) associated with each age group.
+___
 
 ![](Slicer_effect.JPG)
 
